@@ -9,3 +9,5 @@ I bought a lot's of Raspberry Pi to run Godot on those.
 
 This account is setup for the students on all the Pi I am using in workshop.
 
+
+Welcome to you.
