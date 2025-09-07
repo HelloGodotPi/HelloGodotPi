@@ -11,3 +11,5 @@ This account is setup for the students on all the Pi I am using in workshop.
 
 
 Welcome to you.
+
+---------------
