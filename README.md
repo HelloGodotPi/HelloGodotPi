@@ -78,4 +78,36 @@ Les tournois se déroulent en temps réel :
 * Les données sont récupérées via un **stream Discord**.
 * Bonus: Harcode Mode (Si il y a du monde pour les tournois)
 
+Voici une version corrigée et un peu reformulée pour plus de clarté et de professionnalisme, tout en gardant ton style direct :
+
+---
+
+
+#### 🔹 Bullets Hell (FFA-MM)
+
+* **Objectif** : survivre 24h/24, 7j/7 dans un jeu de drones en FFA (Free For All).
+* **But** : rester en vie le plus longtemps possible sur le serveur.
+* **IN** : deux joysticks + une commande d’attaque.
+* **OUT** : tous les joueurs reçoivent les informations sur la création et la destruction de chaque bullet.
+* **Concept** : tout repose sur le code. L’équation est simple.
+* Variante: Lunar et Mars wars ( meme jeu avec un delay et un code local si un Pi)
+
+> **La meilleure représentation du concept** : *Rick and Morty – Time Split*
+> [![Rick and Morty](https://github.com/user-attachments/assets/f74c6d40-ecfd-4b9e-a00a-980cff6d5411)](https://youtu.be/1DajQg07HMk?t=24)
+> 🔗 [https://youtu.be/1DajQg07HMk?t=24](https://youtu.be/1DajQg07HMk?t=24)
+
+---
+
+### Pourquoi ce concept ?
+
+Recevoir des **inputs** ne consomme pas énormément de bande passante.
+Mais **informer 1000 joueurs** de chaque événement du jeu…
+👉 C’est horriblement coûteux.
+
+> Le but ici est d'organiser des tournois de code où laisser le code tourner pendant que vous dormez est une nécessité.
+
+> Si le code est dans un certain format, il peut être hébergé sur des Raspberry Pi locaux.
+
+
+
 
