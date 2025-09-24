@@ -5,7 +5,35 @@
 
 Voici une version corrigée et clarifiée de ton texte. J’ai conservé ton style direct et ton ton un peu technique/hacker, tout en améliorant la grammaire, la syntaxe et la clarté. Dis-moi si tu veux un ton plus formel ou plus "marketing".
 
+
+
 ---
+
+  
+
+## Hi there 👋
+
+My name is [Eloi Stree](https://github.com/EloiStree) and I am teaching to kids and young developer that want to learn how to make video game the basic of coding.
+I bought a lot's of Raspberry Pi to run Godot on those.
+
+This account is setup for the students on all the Pi I am using in workshop.
+
+
+Welcome to you.
+
+---------------
+
+Currently Working on:
+- [https://github.com/EloiStree/HelloGodotSilksong](https://github.com/EloiStree/HelloGodotSilksong)
+
+
+
+
+----------------------
+---------------------
+
+> 🚨🎯 This serves as a reminder of what I aim to build for fun with the community. I’ve placed it on the front page to keep in mind that learning Pi and Godot is part of a broader goal: teaching code and organizing coding tournaments as educational workshops.
+
 
 ## Objectif personnel : Tournoi APINT.IO
 
@@ -49,28 +77,5 @@ Les tournois se déroulent en temps réel :
 * But : SpeedRun pour tuer Van Cliff sur Retails
 * Les données sont récupérées via un **stream Discord**.
 * Bonus: Harcode Mode (Si il y a du monde pour les tournois)
-
-
-
-
----
-
-  
-
-## Hi there 👋
-
-My name is [Eloi Stree](https://github.com/EloiStree) and I am teaching to kids and young developer that want to learn how to make video game the basic of coding.
-I bought a lot's of Raspberry Pi to run Godot on those.
-
-This account is setup for the students on all the Pi I am using in workshop.
-
-
-Welcome to you.
-
----------------
-
-Currently Working on:
-- [https://github.com/EloiStree/HelloGodotSilksong](https://github.com/EloiStree/HelloGodotSilksong)
-
 
 
