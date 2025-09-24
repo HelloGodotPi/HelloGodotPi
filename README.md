@@ -52,7 +52,6 @@ Les tournois se déroulent en temps réel :
 
 * Objectif : permettre à un joueur de réaliser le **meilleur temps en 1H**.
 * Actions :
-
   * Enregistrer le joueur et son score dans un repo Git.
   * Offrir des composants IoT aux gagnants.
   * Les données sont transmises via un **tunnel APINT.io**.
@@ -78,7 +77,7 @@ Les tournois se déroulent en temps réel :
 * Les données sont récupérées via un **stream Discord**.
 * Bonus: Harcode Mode (Si il y a du monde pour les tournois)
 
-Voici une version corrigée et un peu reformulée pour plus de clarté et de professionnalisme, tout en gardant ton style direct :
+
 
 ---
 
