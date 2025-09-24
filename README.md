@@ -56,14 +56,14 @@ Les tournois se déroulent en temps réel :
   * Offrir des composants IoT aux gagnants.
   * Les données sont transmises via un **tunnel APINT.io**.
 
-#### 🔹 Wow Niveau 1 (Collaboratif)
+#### 🔹 Wow Niveau 1 (Compétitif)
 
 * Objectif : permettre à **4 joueurs de jouer en parallèle**.
 * But : le premier joueur à atteindre le niveau 10 gagne sa pool.
 * Les données sont récupérées via color telemetry un **stream Discord**.
 * Bonus: Harcode Mode (Si il y a du monde pour les tournois)
 
-#### 🔹 Wow Hunt 1 (Collaboratif)
+#### 🔹 Wow Hunt 1 (Compétitif)
 
 * Objectif : permettre à **4 joueurs de jouer en parallèle**.
 * But : le premier joueur à tuer la cible gagne la pool.
