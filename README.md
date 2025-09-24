@@ -37,7 +37,7 @@ Currently Working on:
 
 ## Objectif personnel : Tournoi APINT.IO
 
-Mon objectif est d’enseigner la programmation à travers le hacking de jeux vidéo, en organisant des tournois eSport compétitifs (**10 Seconds Ninja**) et collaboratifs (**Road to the DeathMine**). Ces tournois de code opposent les meilleurs bots et humains du Web dans des speedruns **sans les mains**, peu importe le langage utilisé.
+Mon objectif est d’enseigner la programmation à travers le hacking de jeux vidéo, en organisant des tournois eSport compétitifs (**10 Seconds Ninja**) et collaboratifs (**Road to the DeathMine**). Ces tournois de code opposeraient les meilleurs bots et humains du Web dans des speedruns **sans les mains**, peu importe le langage utilisé.
 
 Les tournois se déroulent en temps réel :
 
